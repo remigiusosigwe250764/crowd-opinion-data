@@ -1,0 +1,34 @@
+[
+  {
+    "sport": "Football",
+    "teamA": "Chelsea",
+    "teamB": "Liverpool",
+    "teamA_votes": 0,
+    "teamB_votes": 0,
+    "match_date": "2026-01-22"
+  },
+  {
+    "sport": "Football",
+    "teamA": "Manchester City",
+    "teamB": "Tottenham Hotspur",
+    "teamA_votes": 0,
+    "teamB_votes": 0,
+    "match_date": "2026-01-22"
+  },
+  {
+    "sport": "Basketball",
+    "teamA": "Lakers",
+    "teamB": "Celtics",
+    "teamA_votes": 0,
+    "teamB_votes": 0,
+    "match_date": "2026-01-22"
+  },
+  {
+    "sport": "Tennis",
+    "teamA": "Federer",
+    "teamB": "Nadal",
+    "teamA_votes": 0,
+    "teamB_votes": 0,
+    "match_date": "2026-01-22"
+  }
+]
